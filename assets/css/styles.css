@@ -1,0 +1,27 @@
+.content{
+    display:flex;
+    flex-wrap: wrap;
+    border-left: thick solid #1a1a1c;
+    top: 10px;
+  }
+
+  .sectionTitle{
+    font-weight: 700;
+    font-size: 46px;
+    text-align: right !important;
+  }
+
+  .sections{
+    width: 80%;
+ }
+  
+  @media screen and (max-width: 750px) {
+    .content{
+        border-left: transparent;
+      }
+
+      .sectionTitle{
+        text-align: left !important;
+      }
+    
+}
