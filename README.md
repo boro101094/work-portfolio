@@ -1,6 +1,6 @@
 # work-portfolio
-Hi, my name is Boris Cabrera and I am a software developer
-in this portfolio you'll find some of the previous work that I have created during my time as a developer.
+Hi, my name is Boris Cabrera and I am a software developer with 3 years of experience.
+In this portfolio you'll find some of the previous work that I have created during my time as a developer.
 feel free to explore my portfolio and have fun with my projects :)
 
 ## Portfolio Home Page
