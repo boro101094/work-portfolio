@@ -1,0 +1,37 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.content{
+    display:flex;
+    flex-wrap: wrap;
+    border-left: thick solid #1a1a1c;
+    top: 10px;
+  }
+
+  .sectionTitle{
+    font-weight: 700;
+    font-size: 46px;
+    text-align: right !important;
+  }
+
+  .contactInfo{
+    font-weight: 500;
+    font-size: 40px;
+  }
+
+  .sections{
+    width: 100% !important;
+ }
+  
+  @media screen and (max-width: 750px) {
+    .content{
+        border-left: transparent;
+        border-top: thick solid #1a1a1c;
+      }
+
+      .sectionTitle{
+        text-align: left !important;
+      }
+    
+}
