@@ -3,6 +3,6 @@ Hi, my name is Boris Cabrera and I am a software developer with 3 years of exper
 In this portfolio you'll find some of the previous work that I have created during my time as a developer.
 feel free to explore my portfolio and have fun with my projects :)
 
-## Portfolio Home Page
+## Portfolio Home Page (ScreenShots)
 
 ## Link for deployed portfolio
