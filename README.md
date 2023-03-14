@@ -5,4 +5,15 @@ feel free to explore my portfolio and have fun with my projects :)
 
 ## Portfolio Home Page (ScreenShots)
 
+# Screenshot PC
+
+![](./assets/img/pcScreen1.png)
+![](./assets/img/pcScreen2.png)
+
+# Screenshot Mobile
+
+![](./assets/img/mobileScreen.png)
+
 ## Link for deployed portfolio
+
+https://boro101094.github.io/work-portfolio/
