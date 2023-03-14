@@ -7,7 +7,7 @@ feel free to explore my portfolio and have fun with my projects :)
 
 # Screenshot PC
 
-![](./assets/img/pcScreen1.png)
+![](./assets/img/pcScreen1.png) 
 ![](./assets/img/pcScreen2.png)
 
 # Screenshot Mobile
